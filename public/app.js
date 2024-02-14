@@ -1,4 +1,4 @@
-const socket = io.connect("https://chat-app-kappa-ecru.vercel.app/");
+const socket = io.connect("https://chat-3y4l0lw2x-mustafa-said-bektass-projects.vercel.app/");
 
 const sender = document.getElementById("sender");
 const message = document.getElementById("message");
